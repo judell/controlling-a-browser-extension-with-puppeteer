@@ -1,0 +1,1 @@
+A simple browser extension that reads and displays HTML link elements. 
