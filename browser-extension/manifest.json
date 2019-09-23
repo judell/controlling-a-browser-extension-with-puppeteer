@@ -1,0 +1,10 @@
+{
+  "name": "extension-testing-with-puppeteer",
+  "version": "1.0",
+  "description": "demo extension to illustrate testing with puppeteer",
+  "manifest_version": 2,
+  "background": {
+    "scripts": [ "background.js" ]
+  },
+  "permissions": [ "<all_urls>", "tabs" ]
+}

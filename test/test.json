@@ -1,0 +1,557 @@
+[
+  {
+    "url": "https://www.amazon.com/",
+    "linkData": [
+      {
+        "rel": "dns-prefetch",
+        "href": "https://images-na.ssl-images-amazon.com"
+      },
+      {
+        "rel": "dns-prefetch",
+        "href": "https://m.media-amazon.com"
+      },
+      {
+        "rel": "dns-prefetch",
+        "href": "https://completion.amazon.com"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://images-na.ssl-images-amazon.com/images/I/517rp2NH2UL._RC|516fcOUE-HL.css,01evdoiemkL.css,01K+Ps1DeEL.css,31pdJv9iSzL.css,01tgK36lpGL.css,11UGC+GXOPL.css,21LK7jaicML.css,11L58Qpo0GL.css,21kyTi1FabL.css,01Xl9KigtzL.css,01YhS3Cs-hL.css,21GwE3cR-yL.css,019SHZnt8RL.css,01wAWQRgXzL.css,21bWcRJYNIL.css,11WgRxUdJRL.css,01dU8+SPlFL.css,11ocrgKoE-L.css,01SHjPML6tL.css,111-D2qRjiL.css,01QrWuRrZ-L.css,310Imb6LqFL.css,11Z1a0FxSIL.css,01Alnvtt1zL.css,21mOLw+nYYL.css,01L8Y-JFEhL.css_.css?AUIClients/AmazonUI#us.not-trident.218320-T1.206347-T1"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://images-na.ssl-images-amazon.com/images/I/21rQMjhzuzL._RC|71eaz8IY80L.css,11WnO6PP7GL.css,310-M-Za+ML.css,21+aU+R3IiL.css,31wWWC6YAvL.css,11G4HxMtMSL.css,31OvHRW+XiL.css,01XHMOHpK1L.css_.css?AUIClients/AmazonNavigationDesktopMetaAsset#desktop.222470-T1"
+      },
+      {
+        "rel": "stylesheet",
+        "href": "https://images-na.ssl-images-amazon.com/images/I/41-YM6CvdpL.css?AUIClients/AmazonGatewayAuiAssets"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www.amazon.com/"
+      },
+      {
+        "rel": "preload",
+        "as": "image",
+        "crossorigin": "anonymous",
+        "href": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/btn-close._CB192250694_.gif"
+      },
+      {
+        "rel": "preload",
+        "as": "script",
+        "crossorigin": "anonymous",
+        "href": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/personalization/yourstore/js/ratings-bar-366177._CB204593665_.js"
+      },
+      {
+        "rel": "preload",
+        "as": "script",
+        "crossorigin": "anonymous",
+        "href": "https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/js/ap-checkout-frn._CB309092179_.js"
+      },
+      {
+        "rel": "preload",
+        "as": "script",
+        "crossorigin": "anonymous",
+        "href": "https://images-na.ssl-images-amazon.com/images/G/01/orderApplication/js/authPortal/sign-in._CB375965495_.js"
+      },
+      {
+        "rel": "preload",
+        "as": "script",
+        "crossorigin": "anonymous",
+        "href": "https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/js/ap_global-1.1._CB306317608_.js"
+      }
+    ]
+  },
+  {
+    "url": "https://example.com/",
+    "linkData": []
+  },
+  {
+    "url": "https://www.gov.uk/",
+    "linkData": [
+      {
+        "rel": "stylesheet",
+        "media": "screen",
+        "href": "https://assets.publishing.service.gov.uk/static/govuk-template-c0b8ba8b1652aacad298d74f24752260187f538b50c40c2484f7f333cbc3cf2b.css",
+        "crossorigin": "anonymous",
+        "integrity": "sha256-wLi6ixZSqsrSmNdPJHUiYBh/U4tQxAwkhPfzM8vDzys="
+      },
+      {
+        "rel": "stylesheet",
+        "media": "print",
+        "href": "https://assets.publishing.service.gov.uk/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css",
+        "crossorigin": "anonymous",
+        "integrity": "sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA="
+      },
+      {
+        "rel": "stylesheet",
+        "media": "all",
+        "href": "https://assets.publishing.service.gov.uk/static/fonts-e9ec5a5f82e5c2a17927ce356e5a054cb28025ec1547ec5d00f5c98d2ec5e481.css",
+        "crossorigin": "anonymous",
+        "integrity": "sha256-6exaX4LlwqF5J841bloFTLKAJewVR+xdAPXJjS7F5IE="
+      },
+      {
+        "rel": "shortcut icon",
+        "href": "https://assets.publishing.service.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico",
+        "type": "image/x-icon"
+      },
+      {
+        "rel": "mask-icon",
+        "href": "https://assets.publishing.service.gov.uk/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg",
+        "color": "#0b0c0c"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "sizes": "180x180",
+        "href": "https://assets.publishing.service.gov.uk/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "sizes": "167x167",
+        "href": "https://assets.publishing.service.gov.uk/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "sizes": "152x152",
+        "href": "https://assets.publishing.service.gov.uk/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://assets.publishing.service.gov.uk/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png"
+      },
+      {
+        "rel": "stylesheet",
+        "media": "screen",
+        "href": "https://assets.publishing.service.gov.uk/static/static-ba6666bbd0c72dad74cc3c40c789b6e6ee0052929dd0792a2d30a037bc8a7e1b.css",
+        "crossorigin": "anonymous",
+        "integrity": "sha256-umZmu9DHLa10zDxAx4m25u4AUpKd0HkqLTCgN7yKfhs="
+      },
+      {
+        "rel": "stylesheet",
+        "media": "print",
+        "href": "https://assets.publishing.service.gov.uk/static/static-print-17255536627492caaf8fd08dbbf9cd1169bf0e32d73c202a7dc98a7a5fdc4daa.css",
+        "crossorigin": "anonymous",
+        "integrity": "sha256-FyVVNmJ0ksqvj9CNu/nNEWm/DjLXPCAqfcmKel/cTao="
+      },
+      {
+        "title": "Search",
+        "rel": "search",
+        "type": "application/opensearchdescription+xml",
+        "href": "/search/opensearch.xml"
+      },
+      {
+        "rel": "stylesheet",
+        "media": "screen",
+        "href": "https://assets.publishing.service.gov.uk/frontend/application-4db135509ae5c89febb93bab26e1db9b41de6f636089841b8cdfdda0076568d0.css",
+        "crossorigin": "anonymous",
+        "integrity": "sha256-TbE1UJrlyJ/ruTurJuHbm0Heb2NgiYQbjN/doAdlaNA="
+      },
+      {
+        "rel": "stylesheet",
+        "media": "print",
+        "href": "https://assets.publishing.service.gov.uk/frontend/print-9a89a70b229140500e05d3ce1e2f88d4442f22e3713c604eb95c90a297a44a3b.css",
+        "crossorigin": "anonymous",
+        "integrity": "sha256-momnCyKRQFAOBdPOHi+I1EQvIuNxPGBOuVyQopekSjs="
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www.gov.uk/"
+      },
+      {
+        "rel": "preload",
+        "as": "image",
+        "href": "https://assets.publishing.service.gov.uk/frontend/govuk_publishing_components/chevron-banner/chevron-banner-hover-f56caf36e1f9ed00a5dbe2865a007471ca0c16af387f9d409a19ed8e9e2ef781.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "preload",
+        "as": "image",
+        "href": "https://assets.publishing.service.gov.uk/frontend/govuk_publishing_components/chevron-banner/chevron-banner-hover-border-e412ab0aedb4ea814cf8a2e4cac30e3409de9b8b8de55eed525980d6ad7ee418.svg",
+        "type": "image/svg+xml"
+      },
+      {
+        "rel": "preload",
+        "as": "image",
+        "href": "https://assets.publishing.service.gov.uk/frontend/govuk_publishing_components/chevron-banner/chevron-banner-focus-5453f0945f47db73e2a1f01b455d416d7d1657b4b82cdc2c9aec7d4af97056e1.svg",
+        "type": "image/svg+xml"
+      }
+    ]
+  },
+  {
+    "url": "https://loc.gov/",
+    "linkData": [
+      {
+        "title": "schema(DC)",
+        "rel": "schema.dc",
+        "href": "http://purl.org/dc/elements/1.1/"
+      },
+      {
+        "rel": "dc.rights",
+        "title": "Rights Restriction",
+        "href": "http://www.loc.gov/text-us-government-work"
+      },
+      {
+        "href": "/static/stylesheets/base.css?81937.87458",
+        "type": "text/css",
+        "rel": "stylesheet"
+      },
+      {
+        "title": "Library of Congress Search",
+        "href": "https://www.loc.gov/search/opensearch.xml",
+        "rel": "search",
+        "type": "application/opensearchdescription+xml"
+      },
+      {
+        "href": "//cdn.loc.gov/loader/css/style.css",
+        "rel": "stylesheet",
+        "media": "all",
+        "type": "text/css"
+      }
+    ]
+  },
+  {
+    "url": "https://twitter.com/",
+    "linkData": [
+      {
+        "rel": "stylesheet",
+        "href": "https://abs.twimg.com/a/1568657951/css/t1/twitter_core.bundle.css",
+        "class": "coreCSSBundles"
+      },
+      {
+        "rel": "stylesheet",
+        "class": "moreCSSBundles",
+        "href": "https://abs.twimg.com/a/1568657951/css/t1/twitter_more_1.bundle.css"
+      },
+      {
+        "rel": "stylesheet",
+        "class": "moreCSSBundles",
+        "href": "https://abs.twimg.com/a/1568657951/css/t1/twitter_more_2.bundle.css"
+      },
+      {
+        "rel": "dns-prefetch",
+        "href": "https://pbs.twimg.com"
+      },
+      {
+        "rel": "dns-prefetch",
+        "href": "https://t.co"
+      },
+      {
+        "rel": "preload",
+        "href": "https://abs.twimg.com/k/en/init.en.abc0f691e2fa741aa907.js",
+        "as": "script"
+      },
+      {
+        "rel": "preload",
+        "href": "https://abs.twimg.com/k/en/0.commons.en.06a750caea28350212ee.js",
+        "as": "script"
+      },
+      {
+        "rel": "mask-icon",
+        "sizes": "any",
+        "href": "https://abs.twimg.com/a/1568657951/icons/favicon.svg",
+        "color": "#1da1f2"
+      },
+      {
+        "rel": "shortcut icon",
+        "href": "//abs.twimg.com/favicons/favicon.ico",
+        "type": "image/x-icon"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png",
+        "sizes": "192x192"
+      },
+      {
+        "rel": "manifest",
+        "href": "/manifest.json"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://twitter.com/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "x-default",
+        "href": "https://twitter.com/"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fr",
+        "href": "https://twitter.com/?lang=fr"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en",
+        "href": "https://twitter.com/?lang=en"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ar",
+        "href": "https://twitter.com/?lang=ar"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ja",
+        "href": "https://twitter.com/?lang=ja"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "es",
+        "href": "https://twitter.com/?lang=es"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "de",
+        "href": "https://twitter.com/?lang=de"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "it",
+        "href": "https://twitter.com/?lang=it"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "id",
+        "href": "https://twitter.com/?lang=id"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "pt",
+        "href": "https://twitter.com/?lang=pt"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ko",
+        "href": "https://twitter.com/?lang=ko"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "tr",
+        "href": "https://twitter.com/?lang=tr"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ru",
+        "href": "https://twitter.com/?lang=ru"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "nl",
+        "href": "https://twitter.com/?lang=nl"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fil",
+        "href": "https://twitter.com/?lang=fil"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ms",
+        "href": "https://twitter.com/?lang=ms"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "zh-tw",
+        "href": "https://twitter.com/?lang=zh-tw"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "zh-cn",
+        "href": "https://twitter.com/?lang=zh-cn"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "hi",
+        "href": "https://twitter.com/?lang=hi"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "no",
+        "href": "https://twitter.com/?lang=no"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "sv",
+        "href": "https://twitter.com/?lang=sv"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fi",
+        "href": "https://twitter.com/?lang=fi"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "da",
+        "href": "https://twitter.com/?lang=da"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "pl",
+        "href": "https://twitter.com/?lang=pl"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "hu",
+        "href": "https://twitter.com/?lang=hu"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "fa",
+        "href": "https://twitter.com/?lang=fa"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "he",
+        "href": "https://twitter.com/?lang=he"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ur",
+        "href": "https://twitter.com/?lang=ur"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "th",
+        "href": "https://twitter.com/?lang=th"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "uk",
+        "href": "https://twitter.com/?lang=uk"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ca",
+        "href": "https://twitter.com/?lang=ca"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ga",
+        "href": "https://twitter.com/?lang=ga"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "el",
+        "href": "https://twitter.com/?lang=el"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "eu",
+        "href": "https://twitter.com/?lang=eu"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "cs",
+        "href": "https://twitter.com/?lang=cs"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "gl",
+        "href": "https://twitter.com/?lang=gl"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ro",
+        "href": "https://twitter.com/?lang=ro"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "hr",
+        "href": "https://twitter.com/?lang=hr"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "en-gb",
+        "href": "https://twitter.com/?lang=en-gb"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "vi",
+        "href": "https://twitter.com/?lang=vi"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "bn",
+        "href": "https://twitter.com/?lang=bn"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "bg",
+        "href": "https://twitter.com/?lang=bg"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "sr",
+        "href": "https://twitter.com/?lang=sr"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "sk",
+        "href": "https://twitter.com/?lang=sk"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "gu",
+        "href": "https://twitter.com/?lang=gu"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "mr",
+        "href": "https://twitter.com/?lang=mr"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "ta",
+        "href": "https://twitter.com/?lang=ta"
+      },
+      {
+        "rel": "alternate",
+        "hreflang": "kn",
+        "href": "https://twitter.com/?lang=kn"
+      },
+      {
+        "rel": "alternate",
+        "media": "handheld, only screen and (max-width: 640px)",
+        "href": "https://mobile.twitter.com/"
+      },
+      {
+        "rel": "alternate",
+        "href": "android-app://com.twitter.android/twitter/front?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Ehome"
+      },
+      {
+        "rel": "search",
+        "type": "application/opensearchdescription+xml",
+        "href": "/opensearch.xml",
+        "title": "Twitter"
+      },
+      {
+        "id": "async-css-placeholder"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wikipedia.org/",
+    "linkData": [
+      {
+        "rel": "apple-touch-icon",
+        "href": "/static/apple-touch/wikipedia.png"
+      },
+      {
+        "rel": "shortcut icon",
+        "href": "/static/favicon/wikipedia.ico"
+      },
+      {
+        "rel": "license",
+        "href": "//creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "rel": "preconnect",
+        "href": "//upload.wikimedia.org"
+      },
+      {
+        "rel": "preconnect",
+        "href": "//en.wikipedia.org"
+      }
+    ]
+  }
+]

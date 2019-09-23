@@ -1,0 +1,1 @@
+A demo showing how to use puppeteer to control a browser extension.
